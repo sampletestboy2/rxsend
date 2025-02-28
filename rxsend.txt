@@ -1,0 +1,1 @@
+("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/Tpupp3ts/send/refs/heads/main/site","ZoneInfo":("LCZ":("hasblackout":Y,"hasdecontamination":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":(),"HCZ-EZ":("11_19":("CUSTOM_RXSEND",0),"11_18":("Checkpoint",1))),"Zones":("LCZ","HCZ-EZ"))
